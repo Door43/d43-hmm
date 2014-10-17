@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmm:home|Door43 (hmm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmm|d43-hmm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmm/archive/master.zip|d43-hmm.zip]]
+
+**Recent Changes**
+{{changes>ns = hmm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmm|Ethnologue data]]
+
